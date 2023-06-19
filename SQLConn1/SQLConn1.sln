@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLConn1", "SQLConn1\SQLConn1.csproj", "{742F40E6-CE7A-458A-BF25-268C0A420CE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{742F40E6-CE7A-458A-BF25-268C0A420CE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{742F40E6-CE7A-458A-BF25-268C0A420CE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{742F40E6-CE7A-458A-BF25-268C0A420CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{742F40E6-CE7A-458A-BF25-268C0A420CE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22EAC461-26B6-46F2-A577-C80D54791AA2}
+	EndGlobalSection
+EndGlobal
