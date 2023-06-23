@@ -1,0 +1,6 @@
+C:\Users\Amey.Kesarkar\source\repos\KioskSystem\Entity\bin\Debug\Entity.dll
+C:\Users\Amey.Kesarkar\source\repos\KioskSystem\Entity\bin\Debug\Entity.pdb
+C:\Users\Amey.Kesarkar\source\repos\KioskSystem\Entity\obj\Debug\Entity.csproj.AssemblyReference.cache
+C:\Users\Amey.Kesarkar\source\repos\KioskSystem\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\Amey.Kesarkar\source\repos\KioskSystem\Entity\obj\Debug\Entity.dll
+C:\Users\Amey.Kesarkar\source\repos\KioskSystem\Entity\obj\Debug\Entity.pdb
